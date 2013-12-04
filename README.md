@@ -11,3 +11,7 @@ Checkout the demo with docs: http://mourner.github.io/simplify-js/
  * Processing: [ekeneijeoma / simplify-processing](https://github.com/ekeneijeoma/simplify-processing) (by Ekene Ijeoma)
  * AS3: [fnicollet / simplify-as3](https://github.com/fnicollet/simplify-as3) (by Fabien Nicollet)
  * Rust: [calvinmetcalf / simplify-rs](https://github.com/calvinmetcalf/simplify-rs) (by Calvin Metcalf)
+
+### This Fork
+
+* Uses `[xVal, yVal]` instead of `{x: xVal, y: yVal}` for point format
